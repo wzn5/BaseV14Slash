@@ -1,0 +1,15 @@
+{ 
+    "config": {
+        "color": "Random"
+    },
+
+    "slash": {
+        "guild_id": ""
+    },
+
+    "emoji": {
+        "sim": "✔",
+        "nao": "❌"
+    }
+
+}
